@@ -181,5 +181,13 @@ Check that:
 ## License
 
 ```text
-Private project. All rights reserved.
+Copyright (c) 2026 Moonpie
+
+All rights reserved.
+
+This software is proprietary. You may download and use the compiled application for personal or server administration purposes.
+
+You may not copy, modify, reverse engineer, decompile, redistribute, sell, sublicense, or publish this software or any part of it without prior written permission from the copyright holder.
+
+This software is provided "as is", without warranty of any kind.
 ```
