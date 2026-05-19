@@ -128,7 +128,7 @@ Stores known player names by player ID.
 
 This helps the tool display useful leave messages even when the leave log line only contains the player ID.
 
-## Updating users
+## Updatin
 
 Recommended update process:
 
